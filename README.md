@@ -50,8 +50,8 @@ npm run dev
 
 ## 🌍 Live Demo
 
-* Frontend: (add your vercel link)
-* Backend: (add your render link)
+* Frontend: (https://laundry-app-zsim-git-main-harshita-verma12s-projects.vercel.app/)
+* Backend: (https://laundry-app-wcx8.onrender.com)
 
 ---
 
