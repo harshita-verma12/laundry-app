@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import axios from 'axios';
 import './App.css';
 
-const API = 'http://localhost:3000'; // change this after deployment
+const API = import.meta.env.VITE_API_URL || 'http://localhost:3000';er deployment
 
 function App() {
   const [orders, setOrders] = useState([]);
