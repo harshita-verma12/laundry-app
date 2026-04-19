@@ -1,0 +1,85 @@
+
+body {
+  margin: 0;
+  background: #0f172a;
+  color: #1e293b;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Container */
+.container {
+  max-width: 700px;
+  margin: auto;
+  padding: 30px 20px;
+}
+
+/* Title */
+h1 {
+  text-align: center;
+  color: #f8fafc;
+  margin-bottom: 30px;
+}
+
+/* Card */
+.card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+/* Inputs */
+.input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+  border-radius: 6px;
+  border: 1px solid #cbd5e1;
+  font-size: 14px;
+  background: #f8fafc;
+}
+
+/* Buttons */
+.button {
+  width: 100%;
+  padding: 10px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.button:hover {
+  background: #1d4ed8;
+}
+
+/* Orders */
+.orderCard {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 15px;
+  box-shadow: 0 5px 12px rgba(0,0,0,0.15);
+}
+
+/* Status buttons */
+.smallBtn {
+  margin-right: 8px;
+  margin-top: 5px;
+  padding: 6px 10px;
+  border: none;
+  border-radius: 5px;
+  background: #16a34a;
+  color: white;
+  cursor: pointer;
+  font-size: 12px;
+  transition: 0.2s;
+}
+
+.smallBtn:hover {
+  background: #15803d;
+}
